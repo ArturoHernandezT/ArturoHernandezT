@@ -2,7 +2,7 @@
 
 Sobre mí:
 
-💼 Actualmente, trabajo como Ingeniero de Mantenimiento Predictivo y Preventivo, pero estoy en proceso de transición hacia una carrera en QA Engineering.
+💼 Actualmente, trabajo como Ingeniero de Mantenimiento Predictivo y Preventivo, pero estoy en transición hacia una carrera en QA Engineering.
 
 📚 Estoy enfocado en el aprendizaje y la práctica de Python, SQL y herramientas de pruebas de software para fortalecer mis habilidades.
 
