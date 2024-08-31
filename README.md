@@ -28,11 +28,11 @@ LENGUAJES Y HERRAMIENTAS QUE HE ADQUIRIDO
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white) - Competencia básica-intermedia en consulta y análisis de datos.
 
 
-## Bug Report 🐞
+- ## Bug Report 🐞
 
-Durante el desarrollo de esta nueva carrera como QA Engineer, se han llevado a cabo multiples proyectos en los que he reportado varios errores y problemas que se han documentado en JIRA. Puedes revisar estos reportes para obtener una visión más detallada de los desafios enfrentados
+-Durante el desarrollo de esta nueva carrera como QA Engineer, se han llevado a cabo multiples proyectos en los que he reportado varios errores y problemas que se han documentado en JIRA. Puedes revisar estos reportes para obtener una visión más detallada de los desafios enfrentados
 
-Accede a los reportes de errores en JIRA https://ahedezts.atlassian.net/jira/software/c/projects/BR/list?atlOrigin=eyJpIjoiN2FjMWRlOGQ5NjA4NDU5YTllNTgzNjJjMmU3ZWEwNjEiLCJwIjoiaiJ9
+-Accede a los reportes de errores en JIRA https://ahedezts.atlassian.net/jira/software/c/projects/BR/list?atlOrigin=eyJpIjoiN2FjMWRlOGQ5NjA4NDU5YTllNTgzNjJjMmU3ZWEwNjEiLCJwIjoiaiJ9
 
 
 <!--
