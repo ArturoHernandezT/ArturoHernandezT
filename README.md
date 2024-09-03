@@ -1,6 +1,14 @@
-## Hola, soy Arturo ¡Un gusto conocerte! 👋
 
-Sobre mí:
+
+<h1 align="center"><b> Hola, soy Arturo ¡Un gusto! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=QA+Engineer;Automatización+con+Python;Formación+continua+en+TI"></a>
+</p>
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre mí</b>
+<br>
 
 💼 Actualmente, trabajo como Ingeniero de Mantenimiento Predictivo y Preventivo, pero estoy en transición hacia una carrera en QA Engineering.
 
@@ -10,7 +18,8 @@ Sobre mí:
 
 🎯 Me apasiona aprender nuevas tecnologías y métodos para optimizar y asegurar la calidad del software.
 
-LENGUAJES Y HERRAMIENTAS QUE HE ADQUIRIDO 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes y Herramientas</b>
+<br>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white)
@@ -26,6 +35,64 @@ LENGUAJES Y HERRAMIENTAS QUE HE ADQUIRIDO
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python) - Nivel básico-intermedio, centrado en scripts y automatización.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white) - Competencia básica-intermedia en consulta y análisis de datos.
+
+<br>
+
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+
+<br>
+<br>
+
+## <b> ¡Conectemos!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/arturo-hernandez-torres/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Arturo Hernández-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:a.hedez@hotmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Arturo Hdez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<br>
+
+
+
 
 
 
