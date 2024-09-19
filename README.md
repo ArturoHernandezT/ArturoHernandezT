@@ -12,11 +12,11 @@
 
 💼 At the moment I work as an predictive and preventive maintenance engineer but I’m looking forward to pursuing a career in QA Engineering.
 
-📚 At the moment I work as an predictive and preventive maintenance engineer but I’m looking forward to pursuing a career in QA Engineering.
+📚 I’m focused in the learning and execution of Python, SQL and testing software tools to strengthen my skills.
 
 🛠️ I enjoy solving complex problems and improving processes through automatization  and project management.
 
-🎯 I enjoy solving complex problems and improving processes through automatisation  and project management.
+🎯 I love learning new technologies and new methods to optimize and ensure the software quality.
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tools</b>
