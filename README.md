@@ -1,24 +1,25 @@
 
 
-<h1 align="center"><b> Hola, soy Arturo ¡Un gusto! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> Hi, I'm Arturo, nice to meet you! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=QA+Engineer;Automatización+con+Python;Formación+continua+en+TI"></a>
 </p>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre mí</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About me</b>
 <br>
 
-💼 Actualmente, trabajo como Ingeniero de Mantenimiento Predictivo y Preventivo, pero estoy en transición hacia una carrera en QA Engineering.
+💼 At the moment I work as an predictive and preventive maintenance engineer but I’m looking forward to pursuing a career in QA Engineering.
 
-📚 Estoy enfocado en el aprendizaje y la práctica de Python, SQL y herramientas de pruebas de software para fortalecer mis habilidades.
+📚 At the moment I work as an predictive and preventive maintenance engineer but I’m looking forward to pursuing a career in QA Engineering.
 
-🛠️ Disfruto resolviendo problemas complejos y mejorando procesos a través de la automatización y la gestión de proyectos.
+🛠️ I enjoy solving complex problems and improving processes through automatization  and project management.
 
-🎯 Me apasiona aprender nuevas tecnologías y métodos para optimizar y asegurar la calidad del software.
+🎯 I enjoy solving complex problems and improving processes through automatisation  and project management.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Lenguajes y Herramientas</b>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tools</b>
 <br>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
@@ -33,8 +34,8 @@
 
 
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python) - Nivel básico-intermedio, centrado en scripts y automatización.
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white) - Competencia básica-intermedia en consulta y análisis de datos.
+![Python](https://img.shields.io/badge/-Python-000?&logo=python) - Intermediate level, focused on scripts and automation.
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white) - Intermediate competence in data consultation and analysis.
 
 <br>
 
@@ -52,7 +53,7 @@
 <br>
 <br>
 
-## <b> ¡Conectemos!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> let's connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
